@@ -1,5 +1,5 @@
 ## Welcome to my profile 👋
-<img src="readme.png" align="right" height="200px">
+<img src="readme.png" target="_blank" align="right" height="200px">
 <span align="left">
 My name is Eric, 25yo, born and raised in São Paulo. <br>
 Currently I'm a Web Dev student.<br>
