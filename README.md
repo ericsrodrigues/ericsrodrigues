@@ -1,5 +1,4 @@
-## Welcome to my profile 👋
-<img src="readme.png" target="_blank" align="right" height="200px">
+## Boas vindas ao meu perfil! 👋
 <span align="left">
 Me chamo Eric, tenho 26 anos. Meu foco é a área de Infraestrutura/DevOps/SRE e sou graduando em Ciência da Computação no Centro Universitário UniMetrocamp.<br>
 Atualmente estou aprofundando meus conhecimentos em Python, Docker, Kubernetes e Bash. 
