@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil! 👋
 <span align="left">
-Me chamo Eric, tenho 26 anos. Meu foco é a área de Infraestrutura/DevOps/SRE e sou graduando em Ciência da Computação no Centro Universitário UniMetrocamp.<br>
+Me chamo Eric, tenho 27 anos. Meu foco é a área de Infraestrutura/DevOps/SRE e sou graduando em Ciência da Computação no Centro Universitário UniMetrocamp.<br>
 Atualmente estou aprofundando meus conhecimentos em Python, Docker, Kubernetes e Bash. 
 Sou apaixonado por software livre e de código aberto e um usuário assiduo de sistemas Linux.
 </span>
